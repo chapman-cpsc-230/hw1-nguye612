@@ -1,8 +1,7 @@
 # First Programming Exercises
 
- """
-[![Build Status](https://img.shields.io/travis/ChapmanCPSC230Spring16/HW1<nguye612>.svg)](https://travis-ci.org/ChapmanCPSC230Spring16/HW1<nguye612>)
- """
+ [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
+
 
 **Author:** _\<Stephanie Nguyen\>_
 

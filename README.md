@@ -1,18 +1,20 @@
 # First Programming Exercises
 
- [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
+ ```
+ [![Build Status](https://img.shields.io/travis/ChapmanCPSC230Spring16/nguye612.svg)](https://travis-ci.org/ChapmanCPSC230Spring16/hw1<nguye612>)
+ '''
 
-**Author:** _\<your name\>_
+**Author:** _\<Stephanie Nguyen\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<February 19, 2016\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<In the first assignment, 1.3, I learned how to apply simple conversions to converting seconds to years. In the second assignment, 1.6, I learned how to convert the interest rate equation into Python language and plug in values. In the third assignment, I learned how to debug programs.\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<I learned that these assignments take a lot of diligence and patience.\>_
 
 ## Honor Pledge
 
@@ -23,4 +25,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Stephanie Nguyen\>_

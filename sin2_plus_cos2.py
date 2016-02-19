@@ -5,7 +5,7 @@ Copyright (c) 2016 <Stephanie Nguyen>
 
 License: MIT
 
-<.>
+<I debugged the given codes from the book.>
 """
 
 

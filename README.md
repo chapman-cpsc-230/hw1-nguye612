@@ -6,7 +6,7 @@
 
 **Author:** _\<Stephanie Nguyen\>_
 
-**Due date:** _\<February 19, 2016\>_
+**Due date:** _\<February 19\>_
 
 ## Description
 

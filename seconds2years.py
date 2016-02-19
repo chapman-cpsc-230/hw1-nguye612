@@ -5,7 +5,7 @@ Copyright (c) 2016 <Stephanie Nguyen>
 
 License: MIT
 
-<Determining if it is possible for a child to survive one billion seconds.>
+<Determining if it is possible for a child to survive one billion seconds, and if so, what is the child's life expectancy in years.>
 """
 seconds = 10.0**9
 minutes = seconds/60.0

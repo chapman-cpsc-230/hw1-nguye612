@@ -1,8 +1,8 @@
 # First Programming Exercises
 
- ```
+ """
  [![Build Status](https://img.shields.io/travis/ChapmanCPSC230Spring16/nguye612.svg)](https://travis-ci.org/ChapmanCPSC230Spring16/hw1<nguye612>)
- '''
+ """
 
 **Author:** _\<Stephanie Nguyen\>_
 
